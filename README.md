@@ -3,7 +3,7 @@ Exclusão de Conta — Presto
 Para solicitar a exclusão da sua conta e dos seus dados pessoais,
 envie um e-mail para nossa equipe:
 
-[Botão: Solicitar por E-mail] → mailto:luis.c.0903@outlook.com?subject=...&body=...
+[Botão: Solicitar por E-mail] → mailto:luis.c.0903@outlook.com
 
 Ou envie diretamente para: luis.c.0903@outlook.com
 

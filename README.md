@@ -1,11 +1,11 @@
-# Presto-Exclude-Account.io
-
 Exclusão de Conta — Presto
 
 Para solicitar a exclusão da sua conta e dos seus dados pessoais,
-envie uma mensagem para nosso WhatsApp:
+envie um e-mail para nossa equipe:
 
-[Botão: Solicitar via WhatsApp] → https://wa.me/5518991945481?text=...
+[Botão: Solicitar por E-mail] → mailto:luis.c.0903@outlook.com?subject=...&body=...
+
+Ou envie diretamente para: luis.c.0903@outlook.com
 
 Dados excluídos: nome, e-mail, telefone, endereços, fotos enviadas,
 histórico de pedidos não obrigatórios por lei.
